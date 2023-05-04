@@ -114,11 +114,11 @@
       </v-row>
       <v-row>
         <v-col cols="4">
-          <v-checkbox label="Bypass E11 Automation"></v-checkbox>
+          <v-checkbox label="Bypass E11 Address Automation"></v-checkbox>
         </v-col>
         <v-col cols="8">
           <v-alert prominent type="warning" variant="outlined" border="top">
-            (By checking "Bypass E911 Automation" you agree to manually add this
+            (By checking "Bypass E911 Address Automation" you agree to manually add this
             phone number and address to Bandwidth)
           </v-alert>
         </v-col>
